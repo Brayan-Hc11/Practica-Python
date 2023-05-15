@@ -1,4 +1,11 @@
 # Curso de Python desde cero <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
 
+Este es un curso aprenderas a desarrollar programas desde lo mas basico mediante practicas y proyectos reales. Con este curso aprenderas a usar todo lo que necesitas para poder desarrollar, construir  y ejecutar programas en Python completamente desde cero, para el final del curso serás capaz de desarrollar tus propios programas en Python y distribuirlos de manera profesional para que cualquier persona pueda utilizarlos.
 
-##### In this repository you can see some exercises he did, with the purpose of learning Python.Python is a high-level interpreted programming language whose philosophy emphasizes the readability of its code, it is used to develop applications of all kinds.
+## Durante el curso
+
+Durante el curso aprenderas paso por paso a :
+
+- Desarrollar y distribuir tus propios programas en Python.
+- Utilizar Python para la manipulación y analísis de información.
+- Crar interfaces de usuario 
