@@ -9,3 +9,13 @@ Python es un lenguaje de programación, interpretado, de tipado dinámico, cuya 
   
 Cuando se programa en Python, es necesario tener un editor de texto o un entorno de desarrollo integrado (IDE),donde se escribirá el código que se ejecutará más adelante para ver la fumcionalidad del programa.
 
+## ¿Qué es un programa?
+
+Un programa, es una seri de instrucciones previamente condificadas, las cuales permiten realizar una tarea especifica en una computadora. A esra serie de instucciones previamente codificadas, se le conoce como código fuente.
+
+El cual es escrito, por personas conocidas como programadores de computadora. El código, debe ser escrito en un lenguaje de programación, que en este caso será con el lenguaje de programación Python, y que posteriormente puede ser convertido en un archivo ejecutable. Para que el código fuente, pueda ser convertido en un archivo ejecutable, es necesario la ayida de un compilador, y posteriormente ser ejecutado en una _Unidad Central de Procesamiento_ (CPU), con al ayuda de un intérprete.
+
+## ¿Qué es un Compilador?
+
+Un compilador, es un tipo de traductor que transforma un programa entero en un lenguaje de programación(llamado código fuente),
+a lenguaje máquina, para que posteriormente pueda ser ejecutado. a este proceso de traducción se le conoce como compilación. 
