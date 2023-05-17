@@ -28,6 +28,13 @@ Los interpretes, se diferencian de los compiladores, en que mientras el compilad
 
 Un programa de compurtadora bajo la forma de lenguaje de programación el cual es visible para un ser humano, se le llama código fuente, y dicho código fuente se puede convertir en un ejecutable por un compilador, o bien, ejecutarse con la ayuda del intérprete.
 
+## Ejercicios
+
+Para inciar a programar con Python usaremos el interprete de nuestra elección, en donde nuestro primer ejercicio será la ejecución de una linea de cóigo, en donde imprimiremos en pantalla el primer [_"Hello World!"_]().
+
+~~~
+Print ("Hello World!")
+~~~
 
 
 
