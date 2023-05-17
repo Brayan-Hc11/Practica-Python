@@ -30,12 +30,13 @@ Un programa de compurtadora bajo la forma de lenguaje de programación el cual e
 
 ## Ejercicios
 
-Para inciar a programar con Python usaremos el interprete de nuestra elección, en donde nuestro primer ejercicio será la ejecución de una linea de cóigo, en donde imprimiremos en pantalla el primer [_"Hello World!"_]().
+Para inciar a programar con Python usaremos el interprete de nuestra elección, en donde nuestro primer ejercicio será la ejecución de una linea de cóigo, en donde imprimiremos en pantalla el primer [_"Hello World!"_](https://github.com/Brayan-Hc11/Python/tree/main/Ejercicios).
 
 ~~~
 Print ("Hello World!")
 ~~~
 
+como podemos ver en la linea que ejecutamos en el interprete, identificamos que no es necesario el punto y coma (;) al final de cada instrucción 
 
 
 
