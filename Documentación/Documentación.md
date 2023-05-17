@@ -19,3 +19,32 @@ El cual es escrito, por personas conocidas como programadores de computadora. El
 
 Un compilador, es un tipo de traductor que transforma un programa entero en un lenguaje de programación(llamado código fuente),
 a lenguaje máquina, para que posteriormente pueda ser ejecutado. a este proceso de traducción se le conoce como compilación. 
+
+## ¿Que es un interprete?
+
+Los interpretes, se diferencian de los compiladores, en que mientras el compilador, traduce un programa desde su descripción en un lenguaje de programación al código máquina del sistema, los interpretes sólo realizan la traducción a medida de que sea necesaria, típicamente, instrucción por instrucción, y normalmente no guardan el resulatado de dicha traducción.
+
+## En conclusión
+
+Un programa de compurtadora bajo la forma de lenguaje de programación el cual es visible para un ser humano, se le llama código fuente, y dicho código fuente se puede convertir en un ejecutable por un compilador, o bien, ejecutarse con la ayuda del intérprete.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
