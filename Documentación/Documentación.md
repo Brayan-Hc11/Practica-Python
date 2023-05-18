@@ -28,6 +28,8 @@ Los interpretes, se diferencian de los compiladores, en que mientras el compilad
 
 Un programa de compurtadora bajo la forma de lenguaje de programación el cual es visible para un ser humano, se le llama código fuente, y dicho código fuente se puede convertir en un ejecutable por un compilador, o bien, ejecutarse con la ayuda del intérprete.
 
+# Primer modulo de parendizaje
+
 ## print
 
 print es una de las muchas palabras reservadas que tiene el lenguaje de programmación Python, la función de print es imprimir un valor previamente almacenado en una serie delimitante de caracteres especiales que solo se permiten ejecutarse e imprimirse en el IDLE de Pyhon, para escribir esta linea de código se usaran paramentros.
