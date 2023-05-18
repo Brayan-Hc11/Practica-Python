@@ -53,6 +53,7 @@ Para inciar a programar con Python usaremos el interprete de nuestra elección, 
 
 ~~~
 Print ("Hello World!")
+    Hello WOrld!
 ~~~
 
 como podemos ver en la linea que ejecutamos en el interprete, identificamos que no es necesario el punto y coma (;) al final de cada instrucción 
