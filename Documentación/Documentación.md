@@ -28,6 +28,23 @@ Los interpretes, se diferencian de los compiladores, en que mientras el compilad
 
 Un programa de compurtadora bajo la forma de lenguaje de programación el cual es visible para un ser humano, se le llama código fuente, y dicho código fuente se puede convertir en un ejecutable por un compilador, o bien, ejecutarse con la ayuda del intérprete.
 
+## print
+
+print es una de las muchas palabras reservadas que tiene el lenguaje de programmación Python, la función de print es imprimir un valor previamente almacenado en una serie delimitante de caracteres especiales que solo se permiten ejecutarse e imprimirse en el IDLE de Pyhon, para escribir esta linea de código se usaran paramentros.
+
+_EJemplo:_
+
+Para ejecutarse el código almacenaremos un dato de String o cadena de caracteres dentro de un espacio delimitado por un par de corchetes tradicionales y un juego de comillas tanto simples como dobles.
+~~~
+Print ("Hello World!")
+    Hello World!
+    
+print ("Bienvenidos a aprendiendo python.")
+    Bienvenidos a aprendiendo python.
+~~~
+
+como podemos ver en el ejemplo ejecutamos una linea de código muy corta, pero importante para el lengauje de  programación ya que es la función que nos permitirá ver los datos almcenados.
+
 ## Ejercicios
 
 Para inciar a programar con Python usaremos el interprete de nuestra elección, en donde nuestro primer ejercicio será la ejecución de una linea de cóigo, en donde imprimiremos en pantalla el primer [_"Hello World!"_](https://github.com/Brayan-Hc11/Python/tree/main/Ejercicios).
