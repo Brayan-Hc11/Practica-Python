@@ -82,8 +82,14 @@ ya que este nombre tiene un espacio en blanco, por lo cual no es una variable fu
 
 En Python, los dos tipos de variables más comunes son:
 
-- Las variables que son capaces de almacenar números:
+- Las variables que son capaces de almacenar números.
 - Las variables que son capaces de almacenar texto:
+
+En las variables que almacenan números hay dos tipos principales:
+
+- Los números enteros (llamados Int de integers).
+- Los Números decimales o reales (llamados float de flotante).
+
 
 
 
