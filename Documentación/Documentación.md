@@ -58,6 +58,10 @@ Print ("Hello World!")
 
 como podemos ver en la linea que ejecutamos en el interprete, identificamos que no es necesario el punto y coma (;) al final de cada instrucción 
 
+## Variables
+
+#### ¿Qué es una variable?
+
 
 
 
