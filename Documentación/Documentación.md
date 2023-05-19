@@ -30,7 +30,7 @@ Un programa de compurtadora bajo la forma de lenguaje de programación el cual e
 
 # Primer modulo de parendizaje
 
-## print
+## Print
 
 print es una de las muchas palabras reservadas que tiene el lenguaje de programmación Python, la función de print es imprimir un valor previamente almacenado en una serie delimitante de caracteres especiales que solo se permiten ejecutarse e imprimirse en el IDLE de Pyhon, para escribir esta linea de código se usaran paramentros, como lo son los parentesis y los juegos  de comillas tanto simples con dobles. 
 
@@ -61,6 +61,8 @@ como podemos ver en la linea que ejecutamos en el interprete, identificamos que 
 ## Variables
 
 #### ¿Qué es una variable?
+
+En programación, una variable es un espacio en memoria donde se guardan y recuperan los datos que utiliza un programa  
 
 
 
