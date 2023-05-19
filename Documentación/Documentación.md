@@ -62,10 +62,15 @@ como podemos ver en la linea que ejecutamos en el interprete, identificamos que 
 
 #### ¿Qué es una variable?
 
-En programación, una variable es un espacio en memoria donde se guardan y recuperan los datos que utiliza un programa  
+En programación, una variable es un espacio en memoria donde se guardan y recuperan los datos que utiliza un programa, cada variable debe de tener un nombre, con el cual se prodrá identificar y referirse a ella durante el desrrollo de un programa. En Python, el nombre de una variable. no puede coincidir con el nombre de los comandos asignados a este lenguaje de programación, además de que no deberá contener espacios en blanco. 
 
+_Ejemplo:_
 
-
+Una variable no podrá llamarse  
+~~~ 
+print ("") 
+~~~
+ya que esta palabra es una palabra reservada o adignada al lenguaje de programación Python. 
 
 
 
