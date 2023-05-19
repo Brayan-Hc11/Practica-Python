@@ -72,6 +72,11 @@ print ("")
 ~~~
 ya que esta palabra es una palabra reservada o adignada al lenguaje de programación Python. 
 
+una variable tampoco prodría llamarse 
+~~~
+Nom bre ("")
+~~~
+ya que este nombre tiene un espacio en blanco, por lo cual no es una variable funcional o incluso permitida en Python.
 
 
 
