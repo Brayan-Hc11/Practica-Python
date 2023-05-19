@@ -87,7 +87,7 @@ En Python, los dos tipos de variables más comunes son:
    - Los números enteros (llamados Int de integers).
    - Los Números decimales o reales (llamados float de flotante).
 
-- Las variables que son capaces de almacenar texto,las cuales se les denomica como (Strings)
+- Las variables que son capaces de almacenar texto,las cuales se les denomica como (Strings).
 
 
 
