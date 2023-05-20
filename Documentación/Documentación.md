@@ -93,6 +93,7 @@ En Python, los dos tipos de variables más comunes son:
 ~~~
 print ("Declaración de variables en Python")
 Wel_come = "Hello World"
+print Wel-come 
 ~~~
 
 
