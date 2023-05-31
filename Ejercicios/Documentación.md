@@ -56,6 +56,7 @@ Python se utiliza para:
 - Con Python la creación de protoripos puede ser muy rápida.
 - Python se puede tratar de forma procesal, orientada o objetos o funcional.
 
+***
 ## Bueno saber
 - La versión principal más reciente de Python es Python 3, que usaremos en este tutorial. Sin embargo, Python 2, aunque no se actualiza con nada más que actualizaciones de seguridad, sigue siendo bastante popular.
 - En este tutorial, Python se escribirá en un editor de texto. Es posible escribir Python en un entorno de desarrollo integrado, como Thonny, Pycharm, Netbeans o Eclipse, que son particularmente útiles cuando se administran colecciones más grandes de archivos de Python.
@@ -65,8 +66,10 @@ Python se utiliza para:
 - Python usa nuevas líneas para completar un comando, a diferencia de otros lenguajes de programación que a menudo se usan punto y coma o paréntesis.
 - Python se basa en la sangría, usando espacios en blanco, para definir el alcance; como el alcance de los bucles, funciones y clases. Otros lenguajes de programación a menudo usan corchetes para este propósito.
 
+***
 ## Pimero pasos con Python
 
+***
 ### Instalación de Python 
 
 Muchas PC y Mac ya tendrá Python instalado.
