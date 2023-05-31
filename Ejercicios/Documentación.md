@@ -69,7 +69,6 @@ Python se utiliza para:
 ***
 ## Pimero pasos con Python
 
-***
 ### Instalación de Python 
 
 Muchas PC y Mac ya tendrá Python instalado.
