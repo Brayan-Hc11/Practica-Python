@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
+
 # Curso de Python desde cero <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
 
 Este es un curso aprenderas a desarrollar programas desde lo mas basico mediante practicas y proyectos reales. Con este curso aprenderas a usar todo lo que necesitas para poder desarrollar, construir  y ejecutar programas en Python completamente desde cero, para el final del curso serás capaz de desarrollar tus propios programas en Python y distribuirlos de manera profesional para que cualquier persona pueda utilizarlos.
@@ -28,4 +32,6 @@ Este curso está dirigido a todos aqeullos:
   - A crear interfaces gráficas, utilizando Python.
   - A manejar profecionalmente el lenguaje de programación Python.
 
-
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
