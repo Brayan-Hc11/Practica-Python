@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
+
 # ¿Que es Python?
 
 Python es un lenguaje de programación, interpretado, de tipado dinámico, cuya filisofía destaca en una sitanxis que favorezca un código legible. Además, Python es un lenguje de programación multiparadigma y multiplaraforma. Dicho de una manera mas sencilla, Python es:
@@ -27,3 +31,7 @@ Los interpretes, se diferencian de los compiladores, en que mientras el compilad
 ## En conclusión
 
 Un programa de compurtadora bajo la forma de lenguaje de programación el cual es visible para un ser humano, se le llama código fuente, y dicho código fuente se puede convertir en un ejecutable por un compilador, o bien, ejecutarse con la ayuda del intérprete.
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
