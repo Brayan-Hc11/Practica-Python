@@ -5,7 +5,11 @@
 
 # Curso de Python desde cero <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
 
+<<<<<<< HEAD
 Este es un curso aprenderás a desarrollar programas desde lo mas básico mediante practicas y proyectos reales. Con este curso aprenderás a usar todo lo que necesitas para poder desarrollar, construir  y ejecutar programas en Python completamente desde cero, para el final del curso serás capaz de desarrollar tus propios programas en Python y distribuirlos de manera profesional para que cualquier persona pueda utilizarlos.
+=======
+Este es un curso aprenderas a desarrollar programas desde lo mas basico mediante practicas y proyectos reales. Con este curso aprenderas a usar todo lo que necesitas para poder desarrollar, construir  y ejecutar programas en Python completamente desde cero, para el final del curso serás capaz de desarrollar tus propios programas en Python y distribuirlos de manera profesional para que cualquier persona pueda utilizarlos.
+>>>>>>> e7061a65f7d75ea07db1a871b263d4b91300ad63
 
 ## Durante el curso
 
