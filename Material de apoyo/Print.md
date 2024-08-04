@@ -17,7 +17,7 @@ _Por ejemplo:_
 ~~~
 #Declaración de variables
 nombre = 'Ana'
-edad = '25'
+edad = 25
 
 Print("Nombre:", nombre, "edad:", edad )
 ~~~
