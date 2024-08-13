@@ -4,9 +4,9 @@
 
 _Por ejemplo:_
 
-~~~
+```python
 Print('Hola mundo!')
-~~~
+```
 
 Este código imprimirá el texto "Hola mundo!" en la consola.
 
@@ -14,13 +14,13 @@ También se puede usar **Print('')** para mostrar múltiples elementos a la vez,
 
 _Por ejemplo:_
 
-~~~
+```python
 #Declaración de variables
 nombre = 'Ana'
 edad = 25
 
 Print("Nombre:", nombre, "edad:", edad )
-~~~
+```
 
 Esto imprimirá: Nombre: Ana Edad: 25.
 
